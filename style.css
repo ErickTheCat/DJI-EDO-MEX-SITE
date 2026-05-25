@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #0A1F44; /* azul oscuro */
+  color: white;
+  text-align: center;
+}
+
+header {
+  background-color: #111;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 0;
+}
+
+.verde { color: green; }
+.blanco { color: white; }
+.rojo { color: red; }
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #222;
+  padding: 10px;
+  margin-top: 20px;
+}
